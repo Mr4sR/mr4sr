@@ -1,112 +1,95 @@
-# ⚡ Ahmad Sofiyurrohman
+# ⚡ Welcome to My Digital Universe
 
-> **IT Professional • Automation Innovator • Full-Stack Enthusiast**
+> *A place where ideas become systems, and systems become impact.*
 
-![banner](https://capsule-render.vercel.app/api?type=waving\&color=0:0f0c29,50:302b63,100:24243e\&height=180\&section=header\&text=BUILDING%20THE%20FUTURE\&fontSize=40\&fontColor=ffffff)
-
-## 🧬 Tentang Saya
-
-Saya adalah seorang profesional IT dari **Banten, Indonesia** dengan minat besar pada **otomasi, web development, dan solusi digital**. Berpengalaman di ranah software & hardware, terbiasa belajar mandiri, dan senang memecahkan masalah dengan pendekatan modern.
-
-> *"Code. Automate. Innovate."*
+![banner](https://capsule-render.vercel.app/api?type=waving\&color=0:000428,50:004e92,100:00c6ff\&height=180\&section=header\&text=DIGITAL%20ARCHITECT\&fontSize=42\&fontColor=ffffff)
 
 ---
 
-## 🚀 Tech Stack
+## 🧬 About This Space
 
-**Backend**
-`PHP` • `Laravel` • `Filament`
+This GitHub is not just a collection of repositories.
+It is a **laboratory of experiments**, a **workshop of automation**, and a **playground for innovation**.
 
-**Web & CMS**
-`Content Management System` • `REST API`
+I build systems that:
 
-**Data & Office**
-`Google Sheets` • `Microsoft Excel` • `Docs/Word`
+* reduce friction
+* increase efficiency
+* and transform ideas into real, working solutions
 
-**Tools**
-`Git & GitHub` • `Canva` • `Automation`
-
----
-
-## 🧠 Skills
-
-* Web Development (Full-Stack)
-* Automation & Problem Solving
-* CMS Development & Customization
-* Administrative Digital Workflow
-* Team Collaboration & Communication
+> **Designing the future, one commit at a time.**
 
 ---
 
-## 🏆 Certifications
+## 🚀 What You’ll Find Here
 
-* Learn Basic AI
-* Architecting on AWS (Membangun Arsitektur Cloud di AWS)
-* Programming Logic 101
-* Belajar Dasar Git dengan GitHub
-* Become a Back-End Developer Expert
+### 🔧 Automation & Tools
 
----
+Small systems that eliminate repetitive work and optimize workflows.
 
-## 💼 Experience Highlights
+### 🌐 Web & App Experiments
 
-### 👨‍💻 Full Stack Developer — *Inti Everspring Indonesia*
+From clean backends to dynamic interfaces — architecture before aesthetics.
 
-*Membuat company profile berbasis CMS menggunakan Laravel & Filament.*
+### 📊 Data & Logic Projects
 
-### 🧩 HR Department — *Inti Everspring Indonesia*
+Explorations in logic, structure, and data-driven decisions.
 
-*Digitalisasi alur kerja dan dukungan operasional.*
+### 🧪 Concept Labs
 
-### 🤖 Machine Learning Cohort — *Coding Camp by DBS Foundation*
-
-*Eksplorasi data, ML pipeline, dan pemahaman AI dasar.*
-
-### 🗂 Junior Virtual Assistant — *Dinas Pendidikan dan Kebudayaan Provinsi Banten*
-
-*Administrasi digital, pengarsipan, laporan keuangan dasar, dan koordinasi lintas divisi.*
-
-### 📣 Social Media Manager — *Himpunan Mahasiswa Manajemen Informatika*
-
-*Strategi konten, analitik, desain visual, dan kampanye engagement.*
-
-### 🧭 Chairman of Association — *HMMI*
-
-*Kepemimpinan organisasi, kolaborasi tim, dan inisiatif digital.*
+Unpolished, experimental, sometimes weird — but always curious.
 
 ---
 
-## 🎓 Education
+## 🧠 Core Philosophy
 
-**Politeknik Piksi Input Serang**
-Associate Degree — *Informatics Management*
+```txt
+Think in systems.
+Build with purpose.
+Iterate without fear.
+Automate what can be automated.
+```
 
----
-
-## 🌐 Connect
-
-* **Email:** [ahmadsofi5481@gmail.com](mailto:ahmadsofi5481@gmail.com)
-* **LinkedIn:** [https://www.linkedin.com/in/ahmadsofiyurrohman](https://www.linkedin.com/in/ahmadsofiyurrohman)
-* **GitHub:** [https://github.com/Mr4sR](https://github.com/Mr4sR)
+I believe that **code is a language of structure**, and great systems are built not by complexity, but by clarity.
 
 ---
 
-## 🧩 Featured Projects
+## 🛠 Tech Identity
 
-> *(Coming Soon)*
+* ⚙️ Problem Solver
+* 🤖 Automation Thinker
+* 🧩 System Designer
+* 🚀 Continuous Learner
 
-* 🔧 **Automation Toolkit** — Workflow automation untuk administrasi.
-* 🌐 **CMS Pro** — Template CMS modular berbasis Laravel + Filament.
-* 📊 **Data Ops** — Dashboard analitik ringan untuk operasional.
-
----
-
-## 🧪 Fun Facts
-
-* Belajar software secara **self-taught**
-* Suka mengoptimalkan proses manual menjadi otomatis
-* Senang kolaborasi & diskusi teknologi
+I don’t just write code — I **engineer workflows**.
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving\&color=0:24243e,50:302b63,100:0f0c29\&height=120\&section=footer)
+## 📌 Project Zones
+
+> Highlighted categories inside this universe:
+
+* 🛰 **Protocol Series** — Structured backend & system design projects
+* 🧰 **Forge Tools** — Utilities that make work faster and smarter
+* 🌌 **Neon Experiments** — Futuristic concepts & creative builds
+* 📡 **Ops Control** — Dashboards, automation scripts, and monitoring ideas
+
+*(Each repository is part of a bigger system.)*
+
+---
+
+## 🌐 Connect With The Builder
+
+If you’re exploring ideas around **automation, systems, or future tech**, you’re in the right place.
+
+> Collaboration is welcomed. Curiosity is required.
+
+---
+
+## ⚡ Motto
+
+```txt
+BUILD SYSTEMS. BREAK LIMITS.
+```
+
+![footer](https://capsule-render.vercel.app/api?type=waving\&color=0:00c6ff,50:004e92,100:000428\&height=120\&section=footer)
